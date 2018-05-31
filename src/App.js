@@ -8,7 +8,7 @@ constructor(props){
   super(props);
 
   this.state = {
-    title:'ReactNote',
+    title:'React Note',
     act:0,
     index:'',
     datas:[]
